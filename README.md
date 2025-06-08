@@ -12,7 +12,7 @@
   <a href="https://twitter.com/subh__kumar">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />    
   </a>&nbsp;&nbsp;
-  <a href="skumar.iiita@gmail.com">
+  <a href="mailto:skumar.iiita@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
     <a href="https://www.instagram.com/subh__kumar">
