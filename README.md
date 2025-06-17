@@ -1,7 +1,7 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Subhash Kumar</h1>
-<h3 align="center">A Software Developer.</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Subhash Kumar</h1>
+<h3 align="center">A Software Developer</h3>
 
-- 👨‍💻 I’m a mobile developer Experienced in Android. 
+- 👨‍💻 I’m a mobile developer experienced in Android. 
 - 👯 Also experienced in Flutter and React Native.
 
 - 📫 How to reach me: 
