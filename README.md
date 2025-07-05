@@ -2,7 +2,7 @@
 <h3 align="center">A Software Developer</h3>
 
 - 👨‍💻 I’m a mobile developer experienced in Android. 
-- 👯 Also experienced in Flutter and React Native.
+- Also experienced in Flutter.
 
 - 📫 How to reach me: 
 <p align="center"> 
